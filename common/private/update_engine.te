@@ -1,0 +1,2 @@
+# Allow update_engine to call the callback function provided by updater_app
+binder_call(update_engine, updater_app)
